@@ -1,4 +1,3 @@
-this is the first commit
 
 second commit by another tester
 
